@@ -45,6 +45,23 @@ The system assists forensic investigations by:
 - AUC-ROC: **0.923**
 - High Velocity Precision: **90%**
 - Low Velocity Recall: **92.3%**
+- ##  Project Screenshots
+
+### Confusion Matrix
+
+![Confusion Matrix](Images/Confusion_Matrix.png)
+
+### Training Curves
+
+![Training Curves](Images/Training_Curves.png)
+
+### Project Poster
+
+![Poster](Images/Submission_Master_Poster.png)
+
+### Point of Impact Report
+
+![POI Report](Images/Submission_Poi_Report.png)
 
 ---
 
